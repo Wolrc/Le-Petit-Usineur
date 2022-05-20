@@ -1,26 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
 @font-face {
-    font-family: "Revue";
-    src: url("/font/revue.ttf") format("truetype");
-}
-
-@font-face {
-    font-family: "Morning Star";
-    src: url("/font/Morning.ttf") format("truetype");
-}
-
-@font-face {
-    font-family: "ExplosionBook";
-    src: url("/font/ExplosionBookBold.ttf") format("truetype");
-}
-
-@font-face {
-    font-family: "Masque";
-    src: url("/font/MASQUE.ttf") format("truetype");
-}
-
-@font-face {
     font-family: "Stable";
     src: url("/font/Stable.ttf") format("truetype");
 }
